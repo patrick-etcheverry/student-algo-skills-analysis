@@ -1,0 +1,20 @@
+groupeEval,Niveau atteint durant l’atelier de Kata,Ceinture correspondante,Note obtenue sur ce niveau max atteint,Note nécessaire pour valider le niveau,Niveau validé ?,Niveau final,Ceinture correspondante,Delta
+1,9,Ceinture noire,"18,43","18,01",oui,9,Ceinture noire,0
+2,7,Ceinture bleue,"11,77","15,01",non,5,Ceinture orange-verte,2
+3,5,Ceinture orange-verte,18,"11,01",oui,5,Ceinture orange-verte,0
+4,8,Ceinture marron,"9,1","16,01",non,4,Ceinture orange,4
+5,6,Ceinture verte,"17,57","13,01",oui,6,Ceinture verte,0
+6,5,Ceinture orange-verte,18,"11,01",oui,5,Ceinture orange-verte,0
+7,9,Ceinture noire,"16,67","18,01",non,8,Ceinture marron,1
+8,8,Ceinture marron,"10,43","16,01",non,4,Ceinture orange,4
+9,9,Ceinture noire,"19,1","18,01",oui,9,Ceinture noire,0
+10,7,Ceinture bleue,"10,67","15,01",non,4,Ceinture orange,3
+11,6,Ceinture verte,"16,23","13,01",oui,6,Ceinture verte,0
+12,7,Ceinture bleue,"9,1","15,01",non,4,Ceinture orange,3
+13,8,Ceinture marron,20,"16,01",oui,8,Ceinture marron,0
+14,9,Ceinture noire,"14,43","18,01",non,6,Ceinture verte,3
+15,6,Ceinture verte,"17,57","13,01",oui,6,Ceinture verte,0
+16,7,Ceinture bleue,"19,33","15,01",oui,7,Ceinture bleue,0
+17,6,Ceinture verte,"16,9","13,01",oui,6,Ceinture verte,0
+18,9,Ceinture noire,"18,43","18,01",oui,9,Ceinture noire,0
+19,9,Ceinture noire,16,"18,01",non,7,Ceinture bleue,2

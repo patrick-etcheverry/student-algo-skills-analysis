@@ -1,0 +1,2 @@
+#!/bin/bash
+python 07_calculer_notes_defense_collective.py 01_reponses_profs_autre_exo.csv 01_reponses_profs_dernier_exo.csv poids_criteres_defense_collective.csv 07_notes_defense_collective.csv
